@@ -1,4 +1,4 @@
-## ¡Buenas! Soy David Di Giacomo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" />
+## ¡Hi! I am David Di Giacomo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" />
 
 <!--
 **DavidDiGiacomo/DavidDiGiacomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
